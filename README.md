@@ -13,7 +13,7 @@ git clone https://github.com/digichaincoin/digidex-sdk.git
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd DigiDex-sdk/
+cd digidex-sdk/
 ```
 
 Install dependencies
